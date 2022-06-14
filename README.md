@@ -1,13 +1,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=a572251465&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 您好JavaScript 👋👋👋
- - 🔭 个人作品索引页，点击这里[个人作品](http://lihh-core.top/)
+ - 🔭 个人作品索引页
     - 🔭 组件库
     - 🌱 低代码平台
     - 👯 个人在线TODO平台
     - 💬 个人博客
     - 😄 脚手架
 - 🔭 明星项目
+    - 📫 《my-blob》 个人博客：记录自己的源码学习，性能优化，编程题等。用来替代《javascript-program-learning》
     - 🔭 《javascript-program-learning》 实现各种手写编程题 以及算法题，最大可能性考虑最全。如果看到这里的同学，不妨进去看看，说不定面试能够用到呢
     - 🌱 《viewer-design》 个人基于vue3 + ts的组件库，虽然没有上生产，但是对组件库感兴趣，但是没有付之于行动的同学，不妨一看
     - 👯 《vite-eslint-cli》 基于vite + vue3/ vite + react等 实现eslint prettier部署，内置vite vue3运行方式。执行代码构建以及eslint部署一体。 这是重点，各位同学不妨一逛啊。项目初期化非常方便啊
