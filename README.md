@@ -2,20 +2,17 @@
 
 ### 您好 👋👋👋
  - 🔭 个人涉猎技术
-    - JavaScript
-    - Vue
-    - React
-    - Node
-    - TypeScript
-    - 微前端
-    - 低代码
-    - Java
-    - 小程序(跨端等)
+    - JavaScript/ Vue/ React/ Node/ TypeScript/ 微前端/ 低代码/ Java/ 性能优化 跨端等
  - 🔭 个人作品索引页
     - 🔭 组件库
     - 🌱 低代码平台
     - 💬 个人博客
     - 😄 脚手架
+ - 🔭 推荐项目
+     - 🔭 chart-jdbc-flow 图表拖拽，配置数据源等 大屏展示平台
+    - 🌱 w-hooks ahooks是基于react来实现，apply-hooks 模仿其实现。没有任何限制 
+    - 💬 mini-vue3 对照源码实现手写，实现大体功能一比一还原
+    - 😄 还有vue/react组件库/ 脚手架等 项目
 <!--
 **a572251465/a572251465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
