@@ -14,6 +14,10 @@
   - 请查看[rollup-plugin-del](https://github.com/a572251465/rollup-plugin-del)插件
 - 📫 如果您是为**低代码**而来
   - 请查看[运营业务低代码](https://github.com/a572251465/operate-drag-lowcode)(开发中)
+- 😄 如果您是为**剔除多余样式**而来
+  - 请查看[style-shaking](https://github.com/a572251465/style-shaking) 可以搭配git hooks来在提前代码前删除无用的样式
+- ⚡ 如果您是为**快速创建模板**而来
+  - 请查看[init-tpl](https://github.com/a572251465/init-tpl) 可以快速创建库模板。更加适合新手使用哦
 - ... 各种笔记，node平台，静态资源插件各种手写资源 应有尽有
 <!--
 **a572251465/a572251465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
