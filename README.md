@@ -18,6 +18,8 @@
   - 请查看[style-shaking](https://github.com/a572251465/style-shaking) 可以搭配git hooks来在提前代码前删除无用的样式
 - ⚡ 如果您是为**快速创建模板**而来
   - 请查看[init-tpl](https://github.com/a572251465/init-tpl) 可以快速创建库模板。更加适合新手使用哦
+- 🔭 如果您是为**前端面试编程题**而来
+  - 请查看[program-all](https://github.com/a572251465/program-all)项目，每天会不定时手写编程题以及收集大厂的不同的编程题
 - ... 各种笔记，node平台，静态资源插件各种手写资源 应有尽有
 <!--
 **a572251465/a572251465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
