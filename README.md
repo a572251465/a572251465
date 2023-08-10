@@ -1,39 +1,31 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=a572251465&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+> <h1>欢迎来到【全栈切图仔】的技术世界</h1>
+> <br />
+> 当您看到这里的时候，希望下面的内容能给您一些惊喜或是帮助。
 
-### 您好 👋👋👋 
-#### 欢迎来到全栈切图仔的技术世界
-- 🌱 如果您是为**源码**而来
-  - 请查看[source-code-debugger](https://github.com/a572251465/source-code-debugger)。其中包含vue3/ vue2/ vite/ koa/ java/ react等源码
-- 🔭 如果您是为**学习**而来
-  - 请查看[my_blob](https://github.com/a572251465/my-blog)。里面包含了算法/ 工程化/ Java/ Linux等
-- 🌱 如果您是为**主题**而来
-  - 请查看[postcss-theme-rc](https://github.com/a572251465/postcss-theme-rc)。从工程化角度提供了主题解决方案
-- 👯 如果您是为**组件库**而来
-  - 请查看[viewer-design组件库](https://github.com/a572251465/viewer-design)，以及[公司定制组件库](https://github.com/a572251465/vu-design-plus)
-- 🤔 如果您是为**脚手架**而来
-  - 请查看[eslint相关脚手架](https://github.com/a572251465/vite-eslint-cli), 可以一键进行vue3+eslint+prettier+husky+commitlint 创建项目
-- 💬 如果您是为**rollup插件**而来
-  - 请查看[rollup-plugin-del](https://github.com/a572251465/rollup-plugin-del)插件
-- 📫 如果您是为**低代码**而来
-  - 请查看[运营业务低代码](https://github.com/a572251465/operate-drag-lowcode)(开发中)
-- 😄 如果您是为**剔除多余样式**而来
-  - 请查看[style-shaking](https://github.com/a572251465/style-shaking) 可以搭配git hooks来在提前代码前删除无用的样式
-- ⚡ 如果您是为**快速创建模板**而来
-  - 请查看[init-tpl](https://github.com/a572251465/init-tpl) 可以快速创建库模板。更加适合新手使用哦
-- 🔭 如果您是为**前端面试编程题**而来
-  - 请查看[program-all](https://github.com/a572251465/program-all)项目，每天会不定时手写编程题以及收集大厂的不同的编程题
-- ... 各种笔记，node平台，静态资源插件各种手写资源 应有尽有
-<!--
-**a572251465/a572251465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+小编一直在做前后端源码的研究以及 技术的深度学习，下面的内容是小编呕心沥血编写的笔记，希望能给您带来一些帮助。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤔 源码解析
+- 前端知识
+  - 框架~如果您想学习vue的源码，可以参照[vue3/ vue2源码解析](https://cloud.fynote.com/share/s/qJypARgT)
+  - 框架~如果您想学习react的源码，可以参照[react 源码解析](https://cloud.fynote.com/share/s/AdyIKRrs)
+  - 基础知识~如果您是前端小白，或是基础知识不扎实，可以参照[JavaScript 基础知识详解](https://cloud.fynote.com/share/s/GdyzARiAE)
+  - 工程化~如果您想学习前端工程化相关的源码，例如：Glup，Koa, 微前端等，可以参照[前端工程化源码以及实战详解](https://cloud.fynote.com/share/s/qJy9ARj1)
+  - 基础知识~如果您面临着前端面试了，需要用到一些手写编程题，例如：并行请求等，可以参照[JavaScript 手写编程题](https://cloud.fynote.com/share/s/qJy9ARj1)
+  - ...
+- 后端知识
+  - 如果您想学习Spring/ Springmvc/ Springboot的源码，可以参照[Spring全家桶源码解析](https://cloud.fynote.com/share/s/gJyJKRuAA)
+  - 如果您想学习Mybatis的源码，可以参照[Mybatis源码解析](https://cloud.fynote.com/share/s/HdzAKRvc)
+  - 如果您想要了解更多的并发编程的知识，甚至是源码，可以参照[并发编程源码解析](https://cloud.fynote.com/share/s/0JzLARvy)
+  - 如果您对云原生比较感兴趣的话，可以参照[云原生实战](https://cloud.fynote.com/share/s/0JzVARwx)
+  - ...
+### 🤔🤔 工具开发
+- [从工程化角度提供了主题解决方案](https://github.com/a572251465/postcss-theme-rc)
+- 如果您想学习如何开发自己的组件库，可以参照[组件库开发](https://github.com/a572251465/viewer-design)
+- 也许您对脚手架比较感兴趣，可以参照[脚手架开发](https://github.com/a572251465/vite-eslint-cli)
+- 如果您需要一些简单的js扩展方法，例如：判断数字，boolean，添加前缀等。可以参照[前端工具 小助手](https://www.npmjs.com/package/jsmethod-extra)
+- ...
+
+
+以上就是小编的一些源码解析以及工具开发，如果您对小编的内容感兴趣，可以关注小编的公众号【全栈切图仔】，小编会不定期的更新一些技术文章，以及一些源码解析，工具开发等。
