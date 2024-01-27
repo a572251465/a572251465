@@ -2,31 +2,60 @@
 > <br />
 > 当您看到这里的时候，希望下面的内容能给您一些惊喜或是帮助。
 
+## 💡 个人介绍
+- 一个可视化头部公司的 非可视化人员
+- 一个源码 以及工具深入的爱好者
+-  React 社区“爱逛者”，时不时一个pr（虽然不一定被合并）
+- 学习笔记洁癖者
 
 小编一直在做前后端源码的研究以及 技术的深度学习，下面的内容是小编呕心沥血编写的笔记，希望能给您带来一些帮助。
 
+## ⚡️ 前端 源码解析/ 以及基础
+> 如果您是一个前端react爱好者，但是对react 全家桶的源码又没有深入的解析，个人希望您看下下面的文章，从源码的角度帮您深入理解react
+- [mini-react](https://github.com/a572251465/mini-react) 从0实现react，跟react源码目录保持一致/ 内涵大量中文注释，帮您更好的定位源码
+- [mini-react-router](https://github.com/a572251465/mini-react-router) 跟`mini-react` 配套的 路由器，也是从0手写源码，内涵中文注释
+- [mini-redux](https://github.com/a572251465/mini-redux) 跟`mini-react` 配套的 数据管理工具，其实包含redux的全家桶
 
-### 🤔 源码解析
-- 前端知识
-  - 框架~如果您想学习vue的源码，可以参照[vue3/ vue2源码解析](https://cloud.fynote.com/share/s/qJypARgT)
-  - 框架~如果您想学习react的源码，可以参照[react 源码解析](https://cloud.fynote.com/share/s/AdyIKRrs)
-  - 基础知识~如果您是前端小白，或是基础知识不扎实，可以参照[JavaScript 基础知识详解](https://cloud.fynote.com/share/s/GdyzARiAE)
-  - 工程化~如果您想学习前端工程化相关的源码，例如：Glup，Koa, 微前端等，可以参照[前端工程化源码以及实战详解](https://cloud.fynote.com/share/s/qJy9ARj1)
-  - 基础知识~如果您面临着前端面试了，需要用到一些手写编程题，例如：并行请求等，可以参照[JavaScript 手写编程题](https://cloud.fynote.com/share/s/qJy9ARj1)
-  - ...
-- 后端知识
-  - 如果您想学习Spring/ Springboot的源码，可以参照[Spring全家桶源码解析](https://cloud.fynote.com/share/s/GexgAWYy)
-  - 如果您想深入了解Spring MVC执行流程，可以参照[一文让您读懂Spring MVC源码](https://cloud.fynote.com/share/d/XAxqAWZAJ)
-  - 如果您想学习Mybatis的源码，可以参照[Mybatis源码解析](https://cloud.fynote.com/share/s/HdzAKRvc)
-  - 如果您想要了解更多的并发编程的知识，甚至是源码，可以参照[并发编程源码解析](https://cloud.fynote.com/share/s/0JzLARvy)
-  - 如果您对云原生比较感兴趣的话，可以参照[云原生实战](https://cloud.fynote.com/share/s/0JzVARwx)
-  - ...
-### 🤔🤔 工具开发
-- [从工程化角度提供了主题解决方案](https://github.com/a572251465/postcss-theme-rc)
-- 如果您想学习如何开发自己的组件库，可以参照[组件库开发](https://github.com/a572251465/viewer-design)
-- 也许您对脚手架比较感兴趣，可以参照[脚手架开发](https://github.com/a572251465/vite-eslint-cli)
-- 如果您需要一些简单的js扩展方法，例如：判断数字，boolean，添加前缀等。可以参照[前端工具 小助手](https://www.npmjs.com/package/jsmethod-extra)
+> 如果您是一个前端Vue 爱好者，但是对Vue源码不是很熟悉，个人希望您看下 下面的文章，从源码的角度帮您深入理解Vue
+- [Vue源码解析](https://cloud.fynote.com/share/s/1eIqHAJAGn) 跟`mini-react` 不同，此源码分析是以逐个实例来进行分析的
+
+> 如果您对工程化（原理 以及源码） 以及 微前端等非常感兴趣的话，可以参考 下面这些文章
+- [Koa源码](https://cloud.fynote.com/share/d/heI0HAJK3)
+- [Node Require 源码解析](https://cloud.fynote.com/share/d/IhAIGbAJLAH)
+- [Koa-Router 源码解析](https://cloud.fynote.com/share/d/AhAIHbAJLS)
+- [Koa-BodyParse 源码解析](https://cloud.fynote.com/share/d/XeIIbAJLb)
+- [Gulp.Task 源码解析](https://cloud.fynote.com/share/d/HhAIJbAJLk)
+
+> 如果您的前端基础不是很好，或是 您遇到了面试的手写题，可以参考下面的文章
+- [前端基础知识大全](https://cloud.fynote.com/share/s/NeJAbAJNAA)
+- [手写编程](https://cloud.fynote.com/share/s/GhAJMHAJNz)
+
+> 如果您想扩展 一些前端 工具/ 脚手架/ 组件库，您可以参考下 下面的工具
+- [jsmethod-extra](https://github.com/a572251465/jsmethod-extra) 扩展JavaScript的 工具包（已经发布的及其稳定版本）
+- [auto-eslint-cli](https://github.com/a572251465/auto-eslint-cli) 自动部署eslint的  脚手架工具
+- [viewer-design](https://github.com/a572251465/viewer-design) 一款 基于Vue3 的 ts + Vue3的组件库
+- [rollup-plugin-del](https://github.com/a572251465/rollup-plugin-del) 一款很早写的 rollup 插件
 - ...
 
+## ⚡️ 后端 源码解析/ 性能优化
+> 如果您是 Java 后端开发工作者，但是仅仅只会写代码，我建议您看下 下面的Spring 全家桶的源码分析
+- [深入解析Spring 源码](https://cloud.fynote.com/share/s/GhAJWHAJaAH) 真可谓是逐行解析 Spring源码，如果想深入了解Spring源码的话，可以认真看下
+- [解析 SpringMVC核心源码](https://cloud.fynote.com/share/s/GhAJWHAJaAH)
+- [解析 SpringBoot核心源码](https://cloud.fynote.com/share/s/GhAJWHAJaAH)
 
-以上就是小编的一些源码解析以及工具开发，如果您对小编的内容感兴趣，可以关注小编的公众号【全栈切图仔】，小编会不定期的更新一些技术文章，以及一些源码解析，工具开发等。
+> 如果您对中间件 以及多线程并发 感兴趣的话，可以参考下 下面的文章
+- [深入分析Redis 工作原理](https://cloud.fynote.com/share/s/reJgHAJck)
+- [RocketMQ 深入解析](https://cloud.fynote.com/share/s/reJqHAJdq)
+- [MyBatis 源码解析](https://cloud.fynote.com/share/s/AhAJ0HAJeAI)
+- [Kafka原理 深入解析](https://cloud.fynote.com/share/s/reJGbAJeo)
+- [多线程并发 源码解析](https://cloud.fynote.com/share/s/IhAJIbAJjb)
+
+> 如果您对 MySQL性能优化非常感兴趣，十分建议您看下这面的文章
+- [MySQL 性能优化](https://cloud.fynote.com/share/s/heJHbAJfO)
+
+## ⚡️ Nginx，shell/ Linux 知识扩展
+- [Nginx配置 以及Openresty 实战](https://cloud.fynote.com/share/s/HhAJJbAJkb) 如果您对nginx各种配置并不熟悉，建议您看下这个，对新手特别好友 && 非常有帮助
+- [Linux 知识汇总](https://cloud.fynote.com/share/s/rfAAbAJkt)
+- [Shell 基础命令](https://cloud.fynote.com/share/s/NfAMHAJlAF)
+
+其实作者还有很多笔记还列举出来，如果有什么特殊的需求，请联系我[邮箱](lihaohao_used@yeah.net)
