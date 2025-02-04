@@ -15,6 +15,10 @@
 - [JavaScript 扩展工具包](https://a572251465.github.io/jsmethod-extra.docs/) 扩展了很多 基于JavaScript的工具类。
 - 后续有 脚手架 or 组件库等 工具包的介绍
 
+## ⚡️ 共享的学习内容
+> 下面的内容中 分享一些可以共享的知识
+- [Java 概述知识总结](https://gcndifwihvrh.feishu.cn/docx/X5qQdefa4oVLsHxokZIcXcAlnmg?from=from_copylink) 针对Java中热点问题都做了总结，基于源码进行总结。
+
 ## ⚡️ 前端 源码解析/ 以及基础
 > 如果您是一个前端react爱好者，但是对react 全家桶的源码又没有深入的解析，个人希望您看下下面的文章，从源码的角度帮您深入理解react
 - [mini-react](https://github.com/a572251465/mini-react) 从0实现react，跟react源码目录保持一致/ 内涵大量中文注释，帮您更好的定位源码
@@ -26,7 +30,7 @@
 
 > 如果您对工程化（原理 以及源码） 以及 微前端等非常感兴趣的话，可以参考 下面这些文章
 - [Koa源码](https://cloud.fynote.com/share/d/heI0HAJK3)
-- [Node Require 源码解析](https://cloud.fynote.com/share/d/IhAIGbAJLAH)
+- [Node Require 源码解析](https://cloud.fynote.com/share/d/IhAIGbAJLAH)  
 - [Koa-Router 源码解析](https://cloud.fynote.com/share/d/AhAIHbAJLS)
 - [Koa-BodyParse 源码解析](https://cloud.fynote.com/share/d/XeIIbAJLb)
 - [Gulp.Task 源码解析](https://cloud.fynote.com/share/d/HhAIJbAJLk)
